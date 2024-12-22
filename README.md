@@ -17,9 +17,7 @@ Using Cisco Packet Tracer, you can acquire and practice a wide range of networki
 - Explore SDN controllers and IoT networks
 
 ### Tools Used
-Cisco Packet Tracer
 <a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-034A86?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
