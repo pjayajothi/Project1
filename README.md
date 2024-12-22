@@ -1,25 +1,25 @@
-# PROJECTNAME
+# Network Simulation
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Simulating a wide range of network devices, including routers, switches, hubs, servers, and endpoints, as well as various network protocols such as TCP/IP, OSPF, EIGRP, BGP, and more. This activity utilizes Cisco Packet Tracer, which is a comprehensive network simulation tool developed by Cisco Systems, designed to help users design, build, configure, and troubleshoot virtual networks in a safe and controlled environment.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+Using Cisco Packet Tracer, you can acquire and practice a wide range of networking skills, including:
+- Network Design and Configuration
+- Routing and Switching Protocols
+- Network Troubleshooting
+- Wireless Networking
+- Network Security
+- Application Layer Protocols in terms of network traffic simulation
+- VLAN and Network Segmentation
+- Explore SDN controllers and IoT networks
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+Cisco Packet Tracer
+<a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-034A86?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
