@@ -22,4 +22,4 @@ Using Cisco Packet Tracer, you can acquire and practice a wide range of networki
 ## Steps
 
 *Ref 1: Network Diagram*
-<img src="https://medium.com/@enochjohn90/ccna-l4-activity-1-0-5-logical-and-physical-mode-exploration-in-packet-tracer-02dab1c1458c" alt="Wiring Closet Overview">
+<img src="https://itexamanswers.net/wp-content/uploads/2022/01/2022-01-04_051107.jpg" alt="Wiring Closet Overview">
