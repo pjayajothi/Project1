@@ -20,10 +20,6 @@ Using Cisco Packet Tracer, you can acquire and practice a wide range of networki
 <a href="https://www.netacad.com/cisco-packet-tracer"><img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-034A86?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Network Diagram*
+<img src="C:\Users\pujaa\Pictures\New folder\Wiring Closet Overview" alt="Wiring Closet Overview">
