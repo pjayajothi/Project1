@@ -21,5 +21,8 @@ Using Cisco Packet Tracer, you can acquire and practice a wide range of networki
 
 ## Steps
 
-*Ref 1: Network Diagram*
+*Ref 1: Network Diagram- Physical*
 <img src="https://itexamanswers.net/wp-content/uploads/2022/01/2022-01-04_051107.jpg" alt="Wiring Closet Overview">
+
+*Ref 2: Network Diagram- Logical*
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230304231950/Screenshot-(74).png" alt="Logical Connections Overview">
